@@ -85,3 +85,4 @@ Make sure to run tests via `make test`. This is necessary as we have to set
 certain environment variables for the tests to run properly.
 
 Use `go run main.go --seed-dummy-data` to seed redis with test data for use with development and hand-testing
+
