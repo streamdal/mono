@@ -7,6 +7,8 @@
 
 </div>  
 
+# [THIS REPO WAS USED FOR MONOREPO MIGRATION! NEW REPO: github.com/streamdal/streamdal](https://github.com/streamdal/streamdal)
+
 Streamdal is an open-source _**'Code Native Data Pipeline'**_ solution for 
 running data pipelines _directly_ in your application code.
 
